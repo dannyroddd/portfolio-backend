@@ -3,30 +3,35 @@
       "name": "Sports Trivia Game",
       "live": "https://dannyroddd.github.io/Sports-Trivia-Game/",
       "git": "https://github.com/dannyroddd/Sports-Trivia-Game",
+      "description": "A 2 player Sports Trivia Game built with JavaScript and Contentful-Headless-CMS",
       "image": "https://i.imgur.com/HTm9GrB.png"
     },
     {
       "name": "Fitness Routine Tracker",
       "live": "https://daniel-project2.herokuapp.com/",
       "git": "https://github.com/dannyroddd/project2",
+      "description": "A fitness routine tracking app built with Express, JavaScript, and MongoDB",
       "image": "https://i.imgur.com/1yEkMEz.png"
     },
     {
         "name": "JobPug",
         "live": "https://condescending-bardeen-3c488a.netlify.app/",
         "git": "https://github.com/dannyroddd/project3-frontend",
+        "description": "A job application tracking app built with a team using Express, React, and MongoDB",
         "image": "https://imgur.com/0aiPi8l.png"
       },
       {
         "name": "Team Coacher",
         "live": "https://determined-hermann-4f6424.netlify.app/",
         "git": "https://github.com/dannyroddd/project4frontend",
+        "description": "A sports team management app built using Ruby on Rails, React, and PostrgeSQL",
         "image": "https://imgur.com/BiIYn9b.png"
       },
       {
         "name": "Restaurant Critic",
         "live": "https://goofy-torvalds-c4e423.netlify.app/",
         "git": "https://github.com/dannyroddd/critic-frontend",
+        "description": "A restaurant critic review app built using Python, Django, and React",
         "image": "https://imgur.com/HOy4FHP.png"
       }
   ]
