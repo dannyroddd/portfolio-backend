@@ -1,0 +1,32 @@
+[
+    {
+      "name": "Sports Trivia Game",
+      "live": "https://dannyroddd.github.io/Sports-Trivia-Game/",
+      "git": "https://github.com/dannyroddd/Sports-Trivia-Game",
+      "image": "https://i.imgur.com/HTm9GrB.png"
+    },
+    {
+      "name": "Fitness Routine Tracker",
+      "live": "https://daniel-project2.herokuapp.com/",
+      "git": "https://github.com/dannyroddd/project2",
+      "image": "https://i.imgur.com/1yEkMEz.png"
+    },
+    {
+        "name": "JobPug",
+        "live": "https://condescending-bardeen-3c488a.netlify.app/",
+        "git": "https://github.com/dannyroddd/project3-frontend",
+        "image": "https://imgur.com/0aiPi8l.png"
+      },
+      {
+        "name": "Team Coacher",
+        "live": "https://determined-hermann-4f6424.netlify.app/",
+        "git": "https://github.com/dannyroddd/project4frontend",
+        "image": "https://imgur.com/a/qmOZrlL.png"
+      },
+      {
+        "name": "Restaurant Critic",
+        "live": "https://goofy-torvalds-c4e423.netlify.app/",
+        "git": "https://github.com/dannyroddd/critic-frontend",
+        "image": "https://imgur.com/HOy4FHP.png"
+      }
+  ]
